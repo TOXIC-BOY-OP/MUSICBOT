@@ -3,9 +3,9 @@
 
 <p align='center'>
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue"></a>
-<a href="https://github.com/TitaniumOp/MusicBot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square"></a></p>
+<a href="https://github.com/TOXIC-BOY-OP/MUSICBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square"></a></p>
 
-<p align="center"><a href="https://t.me/Titanium_xyz"><img src="https://telegra.ph/file/4c03ff6d25fc678a2fe08.jpg" height="300" width="310" alt="Music Player"></p>
+<p align="center"><a href="https://t.me/SHAYERI_WORLD"><img src="https://telegra.ph/file/4c03ff6d25fc678a2fe08.jpg" height="300" width="310" alt="Music Player"></p>
   
 ## 👀 Features
 - Fast & Powerful player
@@ -35,7 +35,7 @@
 
 ## ❤️ Support
 
-<a href="https://t.me/TitaniumChats"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" alt="Group"></a><br>
-<a href="https://t.me/Titanium_Xyz"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" alt="Channel"></a>
+<a href="https://t.me/DOSTO_KI_M3HFIL"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" alt="Group"></a><br>
+<a href="https://t.me/SHAYERI_WORLD"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" alt="Channel"></a>
 
 
